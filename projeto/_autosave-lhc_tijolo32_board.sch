@@ -1787,8 +1787,6 @@ F 3 "" H 9350 3350 50  0001 C CNN
 	1    9350 3350
 	0    1    1    0   
 $EndComp
-NoConn ~ 9450 1950
-NoConn ~ 9450 1850
 Text GLabel 9350 1750 0    50   Input ~ 0
 SVP
 Text GLabel 9350 2050 0    50   Input ~ 0
@@ -1802,4 +1800,32 @@ Wire Wire Line
 Connection ~ 1250 7250
 Wire Wire Line
 	950  7250 1250 7250
+$Comp
+L power:+3V3 #PWR?
+U 1 1 5F90819A
+P 9050 1750
+F 0 "#PWR?" H 9050 1600 50  0001 C CNN
+F 1 "+3V3" H 9050 1900 50  0000 C CNN
+F 2 "" H 9050 1750 50  0001 C CNN
+F 3 "" H 9050 1750 50  0001 C CNN
+	1    9050 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5F908A0D
+P 9000 1950
+F 0 "#PWR?" H 9000 1700 50  0001 C CNN
+F 1 "GND" V 9000 1750 50  0000 C CNN
+F 2 "" H 9000 1950 50  0001 C CNN
+F 3 "" H 9000 1950 50  0001 C CNN
+	1    9000 1950
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9050 1750 9050 1850
+Wire Wire Line
+	9050 1850 9450 1850
+Wire Wire Line
+	9000 1950 9450 1950
 $EndSCHEMATC
