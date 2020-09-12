@@ -20,7 +20,12 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 
 - [28/07/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/28-07-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad/148/2)
 - [11/09/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad - Parte 02](https://discourse.lhc.net.br/t/11-09-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad-parte-02/160)
- 
+
+# Ainda em construção 11/09/2020
+![Kicad](projeto/assets/lhc_tijolo32_board.jpg)
+![Kicad](projeto/assets/lhc_tijolo32_board2.jpg)
+![Kicad](projeto/assets/lhc_tijolo32_board_bot.jpg)
+
 # Log
 - 19/08/2020 - Criado o evento, repositório, publicações nas redes sociais gerado link sobre a atividade.
 - 02/09/2020 - Criado, divulgado o segundo evento, atualização de links no repositório.
