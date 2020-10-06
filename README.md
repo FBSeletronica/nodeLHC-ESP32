@@ -2,8 +2,11 @@
 
 # nodeLHC-ESP32 
 
-![forks](https://img.shields.io/github/forks/lhc/nodeLHC-ESP32 "forks")  
-![Starts](https://img.shields.io/github/stars/lhc/nodeLHC-ESP32?style=plastic)
+![Issues](https://img.shields.io/github/issues/lhc/nodeLHC-ESP32?style=flat-square)
+
+![forks](https://img.shields.io/github/forks/lhc/nodeLHC-ESP32)  
+
+![Stars](https://img.shields.io/github/stars/lhc/nodeLHC-ESP32?style=plastic)
 
 LIVE em formato Hands On Construindo o nova versão da placa de desenvolvimento nodeLHC ESP32, com o Pedro Minatel, utilizando a ferramenta KIicad, o módulo escolhido é o ESP32 um microcontrolador de baixo custo da Espressif.
 
@@ -17,12 +20,22 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [Minatel KiCad Library](https://github.com/pedrominatel/minatel-kicad-libraries)
 - [SparkFun KiCad Library](https://github.com/sparkfun/SparkFun-KiCad-Libraries)
 
+# checklist
+- [ ] LIVE 1 - Explicação geral e desenho
+- [ ] LIVE 2 - Revisão esquemático e desenho da PCB parcial
+- [ ] Feedback comunidade
+- [ ] LIVE 3 - Finalizar desenho da placa 
+- [ ] Validar artes PCB
+- [ ] Lista BOM
+- [ ] Produção PCB
+
 
 # Discourse 
 Dúvidas? sugestões publicar na issues ou direto no discourse do LHC 
 
 - [28/07/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad](https://discourse.lhc.net.br/t/28-07-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad/148/2)
 - [11/09/2020 LIVE - Hands On: Construindo o nodeLHC ESP32 com Kicad - Parte 02](https://discourse.lhc.net.br/t/11-09-2020-live-hands-on-construindo-o-nodelhc-esp32-com-kicad-parte-02/160)
+
 
 # Ainda em construção 11/09/2020
 ![Kicad](projeto/assets/lhc_tijolo32_board.jpg)
