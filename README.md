@@ -1,11 +1,9 @@
 ## PT-BR
 
 # nodeLHC-ESP32 
-==========
 
-.. image:: https://img.shields.io/github/issues/lhc/nodeLHC-ESP32
-
-
+![forks](https://img.shields.io/github/forks/lhc/nodeLHC-ESP32 "forks")  
+![Starts](https://img.shields.io/github/stars/lhc/nodeLHC-ESP32?style=plastic)
 
 LIVE em formato Hands On Construindo o nova versão da placa de desenvolvimento nodeLHC ESP32, com o Pedro Minatel, utilizando a ferramenta KIicad, o módulo escolhido é o ESP32 um microcontrolador de baixo custo da Espressif.
 
