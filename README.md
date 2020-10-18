@@ -25,7 +25,7 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [x] LIVE 1 - Explicação geral e desenho
 - [x] LIVE 2 - Revisão esquemático e desenho da PCB parcial
 
-# Próximos passados
+# Próximos passos
 - [ ] Lista de pessoas interessadas nos módulos
 - [ ] Feedback comunidade
 - [ ] LIVE 3 - Finalizar desenho da placa 
