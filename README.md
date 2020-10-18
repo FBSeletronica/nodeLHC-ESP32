@@ -20,9 +20,13 @@ Essa é uma primeira atividade que ao decorrer iremos construir novos projetos n
 - [Minatel KiCad Library](https://github.com/pedrominatel/minatel-kicad-libraries)
 - [SparkFun KiCad Library](https://github.com/sparkfun/SparkFun-KiCad-Libraries)
 
+
 # checklist
 - [x] LIVE 1 - Explicação geral e desenho
 - [x] LIVE 2 - Revisão esquemático e desenho da PCB parcial
+
+# Próximos passados
+- [ ] Lista de pessoas interessadas nos módulos
 - [ ] Feedback comunidade
 - [ ] LIVE 3 - Finalizar desenho da placa 
 - [ ] Validar artes PCB
@@ -45,7 +49,7 @@ Dúvidas? sugestões publicar na issues ou direto no discourse do LHC
 # Log
 - 19/08/2020 - Criado o evento, repositório, publicações nas redes sociais gerado link sobre a atividade.
 - 02/09/2020 - Criado, divulgado o segundo evento, atualização de links no repositório.
-- 06/10/2020 - Listagem das pessoas que responderam o discourse para receber o módulo ESP
+- 06/10/2020 - Listagem das pessoas que responderam o discourse para receber o módulo ESP32
 
 ### Referencias
 
