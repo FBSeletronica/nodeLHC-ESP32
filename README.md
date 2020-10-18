@@ -8,7 +8,7 @@
 
 ![Stars](https://img.shields.io/github/stars/lhc/nodeLHC-ESP32?style=plastic)
 
-LIVE em formato Hands On Construindo o nova versão da placa de desenvolvimento nodeLHC ESP32, com o Pedro Minatel, utilizando a ferramenta KIicad, o módulo escolhido é o ESP32 um microcontrolador de baixo custo da Espressif.
+LIVE em formato Hands On Construindo o nova versão da placa de desenvolvimento nodeLHC ESP32, com o Pedro Minatel, utilizando a ferramenta Kicad, o módulo escolhido foi o ESP32 um microcontrolador de baixo custo da Espressif.
 
 Em 2015 durante as oficinas de IoT no Hackerspace, criamos uma primeira versão do nodeLHC com o módulo ESP8266. Assim as pessoas aprenderam as diferentes etapas para construção de placa de circuitos impressos, também soldagem dos componentes da placa de desenvolvimento e programação para o módulo.
 
